@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMNews</string>
+    <string name="empty_textview">Oh It\'s So Empty here</string>
+</resources>
